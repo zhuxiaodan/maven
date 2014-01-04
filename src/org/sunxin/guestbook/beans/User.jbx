@@ -1,0 +1,11 @@
+[PropertyInfo]
+email,String,false,false,email,email,true,<default>
+password,String,false,false,password,password,true,<default>
+style,String,false,false, , ,true,<default>
+styleList,java.util.List,false,false, , ,true,<default>
+username,String,false,false,username,username,true,<default>
+[IconNames]
+
+
+
+
